@@ -2,7 +2,4 @@
 
 This is my testing website
 
-
-Now updating on update-readme
-
-Updated locally
+Upddates made on master on GitHub before rebase
