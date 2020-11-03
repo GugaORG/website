@@ -11,3 +11,9 @@ with whatever is on the remote side
 This was edited locally
 
 how to use git and github together
+
+## Getting Started
+
+Some example to get started section
+
+TO GET STARTED JUST CLICK HERE AND BE HAPPY
